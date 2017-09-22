@@ -1,0 +1,1 @@
+This project is to demonstrate loading components from https://github.com/MarkLunney/create-react-styleguist, and doesn't do much else.
