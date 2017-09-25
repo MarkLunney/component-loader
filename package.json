@@ -6,7 +6,7 @@
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
     "react-scripts": "1.0.13",
-    "create-react-styleguist": "git@github.com:MarkLunney/create-react-styleguist.git"
+    "create-react-library": "git@github.com:MarkLunney/create-react-library.git"
   },
   "scripts": {
     "start": "react-scripts start",
